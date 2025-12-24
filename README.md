@@ -4,7 +4,6 @@
 The College Placement Management System is a Salesforce-based application developed to manage and automate the campus placement process in educational institutions. The system centralizes student records, company details, interview schedules, and placement results, providing real-time insights through automation, reports, and dashboards.
 This project demonstrates practical Salesforce Admin skills including custom objects, relationships, validation rules, flows, and analytics.
 
-
 ## 🎯 Objectives
 - Centralize placement-related data for students and companies  
 - Track interview rounds and placement outcomes  
@@ -17,7 +16,6 @@ This project demonstrates practical Salesforce Admin skills including custom obj
 - **Automation:** Salesforce Flow Builder  
 - **Analytics:** Salesforce Reports & Dashboards  
 
-- 
 ## 🧩 System Architecture
 The application is built using three custom Salesforce objects:
 
